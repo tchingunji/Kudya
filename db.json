@@ -1,0 +1,166 @@
+{
+	"receitas": [{
+			"receita": "Barrinhas de cereal",
+			"ingredientes": "1 xícara de nozes, 1 xícara de frutas secas, 1 xícara de tâmaras secas sem caroço",
+			"ingredientesBase": {
+				"0": "3",
+				"1": "Nozes",
+				"2": "Frutas secas",
+				"3": "Tamaras"
+			},
+			"modoPreparo": "Bata todos os ingredientes em um processador por cerca de dois minutos, até que formem uma massa. Embrulhe a mistura em um papel filme e leve à geladeira por algumas horas até sentir que a massa está dura. Corte em formato de barras e conserve na geladeira.",
+			"link_imagem": "http://localhost/api/img/p-1.jpg"
+		},						
+		{
+			"receita": "Mingau de Aveia",
+			"ingredientes": "50 g de flocos de aveia, 300 ml de leite, 8 g de açúcar baunilhado",
+			"ingredientesBase": {
+				"0": "3",
+				"1": "Flocos de aveia",
+				"2": "Leite",
+				"3": "Acucar baunilhado"
+			},
+			"modoPreparo": "Aquecer o leite, o açúcar e os flocos de aveia numa panela. Deixar cozinhar em fogo baixo, mexendo sempre. Sirva em tigelinha e, se quiser, pode colocar uma pitada de canela em pó, frutas cristalizadas ou outro complemento. Você tem um porridge caseiro (mingau de aveia), para comer no café da manhã ou um lanchinho entre as refeições…",
+			"link_imagem":"http://localhost/api/img/s-img-4.jpg"
+		},
+
+		{
+			"receita": "Brigadeiro de Colher",
+			"ingredientes": "1 lata de leite condensado, 1 colher (sopa) manteiga e 2 colheres (sopa) chocolate em pó",
+			"ingredientesBase": {
+				"0": "3",
+				"1": "Leite condensado",
+				"2": "Manteiga",
+				"3": "Chocolate em po"
+			},
+			"modoPreparo": "Misture o leite condensado, a manteiga, o creme de leite e o chocolate em pó em uma panela. Leve a panela ao fogo. Mexa bem até levantar um pouco de fervura e abaixe o fogo. Misture o chocolate meio amargo derretido no microondas. Espere esfriar, decore com confeitos coloridos ou chocolate granulado e está pronto.",
+			"link_imagem":"http://localhost/api/img/s-img-4.jpg"
+		},
+
+		{
+			"receita": "Frozen iogurte de morango",
+			"ingredientes": "4 potes de iogurte natural desnatado 1, 1/2 xícaras de chá de morangos congelados, 6 envelopes de adoçante",
+			"ingredientesBase": {
+				"0": "2",
+				"1": "Iogurte",
+				"2": "Morango"
+			},
+			"modoPreparo": "Deixe o iogurte dessorar por 1 hora colocando os 4 potes de iogurte em um filtro de papel para café Despeje em uma vasilha e leve ao freezer para congelar Junte o iogurte com o morango no liquidificador (ambos congelados) Bata até misturar, junte o adoçante e misture Coloque em um refratário, cubra com papel filme bem junto ao refratário e leve ao freezer até servir",
+			"link_imagem": "http://data.whicdn.com/images/25686711/large.jpg",
+			"link_imagem":"http://localhost/api/img/s-img-2.jpg"
+		},
+
+		{
+			"receita": "Baked potato (requeijao e parmesao)",
+			"ingredientes": "1 batata grande, requeijão, parmesão",
+			"ingredientesBase": {
+				"0": "3",
+				"1": "Batata",
+				"2": "Requeijao",
+				"3": "Parmesao"
+			},
+			"modoPreparo": "Lave bem a batata com casca e faça alguns furos com um garfo em toda a superfície. Coloque sobre um prato ou recipiente de vidro e leve ao microondas por 8 minutos. Vire e cozinhe por mais 8 minutos. Espete um palito de dente dos dois lados e se ainda não estiver macia, adicione alguns minutos. Retire e enrole em papel alumínio para não esfriar. Faça um corte em uma das laterais e pressione com cuidado as duas pontas para que ela se abra. Agora é hora de rechear com o requeijão e o parmesão.",
+			"link_imagem":"http://localhost/api/img/p-1.jpg"
+		},
+
+		{
+			"receita": "Ovos em nuvens",
+			"ingredientes": "2 ovos, 1/4 copo de queijo minas meia cura ralado (mas pode trocar para parmesão, mas diminua um pouco a quantidade), 1/4 copo de salame picado(mas pode trocar para bacon já frito até ficar crocante)",
+			"ingredientesBase": {
+				"0": "4",
+				"1": "Ovo",
+				"2": "Queijo",
+				"3": "Salame",
+				"4": "Bacon"
+			},
+			"modoPreparo": "Ligue o forno em 230 graus. Separa as claras das gemas, mas guarda as gemas intactas. Eu guardei na própria casca. Bate as claras até ficar neve bem firme. Pique salami e cebola e rala o queijo e misture levemente com as claras em neve, junto com uma pitadinha de sal. Faz dois nuvens da mistura em cima de uma forma para forno e faz um buraquinho no meio de cada. Leva ao forno por mais ou menos 4 minutos. Tira e adicione as gemas nos buraquinhos. Espalhe um pouquinho de pimenta do reino e sal em cima. Retorna para o forno por mais 3 minutos, ou até as gemas se estabilizem, mas sem ficarem duros. Pronto!",
+			"link_imagem":"http://localhost/api/img/p-1.jpg"
+		},
+
+		{
+			"receita": "Smoothie",
+			"ingredientes": "abacate, amora, leite de coco",
+			"ingredientesBase": {
+				"0": "3",
+				"1": "Abacate",
+				"2": "Amora",
+				"3": "Leite de coco"
+			},
+			"modoPreparo": "Coloque suas frutas congeladas de preferência no liquidificador. Adiciona um pouco de liquido e bate. Começa com pouco a adicione mais se for necessário. Para não precisar adicionar muito liquido e perder a textura de sorvete, para de bater frequentemente e mistura com uma colher de pao para ajudar antes de voltar bater de novo. Experimenta e adicione adoçante se achar necessário. Serve já já! Se sobrar você pode colocar a mistura em moldes para picolé e guardar para um outro dia com calor",
+			"link_imagem":"http://localhost/api/img/g-7.jpg"
+		},
+
+		{
+			"receita": "Omelete de claras com peito de peru",
+			"ingredientes": "4 claras de ovos, meia xicará (chá) de  peito de peru ralado grosso, 1 colher(sopa) margarina",
+			"ingredientesBase": {
+				"0": "3",
+				"1": "Ovo",
+				"2": "Peito de Peru",
+				"3": "Margarina"
+			},
+			"modoPreparo": "Coloque as claras em uma tigela e bata ligeiramente com um batedor de arame ou garfo. Aqueça a margarina em uma frigideira antiaderente (com cerca de 21 cm de diâmetro) e despeje o peito de peru. Deixe secar um pouco e, de vez em quando, movimente a frigideira enquanto a omelete adquire consistência. Com o auxílio de uma espátula, dobre a omelete ao meio e sirva em seguida.",
+			"link_imagem":"http://origin.qualysadia.com.br/sites/default/files/imagecache/img_dicas/geral/img/_15min_0012_omelete_claras_peito_peru_2.jpg"
+		},
+
+		{
+			"receita": "Sorvete de Banana",
+			"ingredientes": "1 ou mais banana",
+			"ingredientesBase": {
+				"0": "1",
+				"1": "Banana"
+			},
+			"modoPreparo": "Descasque as bananas e pique-as em rodelas. Depois coloque-as num prato e leve-as ao ao refrigerador por um tempo de pelo menos 2 horas. Depois coloque as bananas num processador de alimentos. Ligue a máquina e processe a banana até que ela tenha a consistência de um creme suave, que nem sorvete mole. Isso vais demorar um tempinho, e no começo vai parecer que não funciona, mas deixe que a máquina faça seu trabalho e logo você terá um delicioso sorvete de banana. Uma vez que seu sorvete de um único ingrediente estiver pronto, leve-o ao refrigerador até que fique bem firme depois poderá comer à vontade.",
+			"link_imagem":"http://localhost/api/img/g-5.jpg"
+		},
+
+		{
+			"receita": "Torta de nutella",
+			"ingredientes": "4 ovos, 240 g de nutella",
+			"ingredientesBase": {
+				"0": "2",
+				"1": "Ovo",
+				"2": "Nutella"
+			},
+			"modoPreparo": "Bata os ovos inteiros por cerca de 6 minutos até que eles tripliquem de tamanho. Depois, coloque a Nutella em um recipiente de vidro e leve ao micro-ondas por aproximadamente 20 segundos para deixar a consistência mais fluida. Então, acrescente ⅓ da nutella aos ovos batidos misturando bem, e vá fazendo o mesmo com as duas outras partes até que todo o chocolate seja incorporado. Despeje a mistura em uma forma redonda forrada com papel manteiga untado, e coloque para assar em forno pré-aquecido a 175 graus por 20 ou 25 minutos (ou verifique com um palito se a torta já está assada). Só desenforme depois de completamente fria.",
+			"link_imagem":"http://localhost/api/img/p-1.jpg"
+		},
+
+		{
+			"receita": "Chocolate quente",
+			"ingredientes": "240 ml de leite, 2 colheres de sopa de Nutella",
+			"ingredientesBase": {
+				"0": "2",
+				"1": "Leite",
+				"2": "Nutella"
+			},
+			"modoPreparo": "Coloque 1/4 do leite em uma panela e adicione as 2 colheres de Nutella (se você quiser, pode acrescentar mais!) e leve ao fogo médio-baixo. Incorpore o chocolate até que ele forme uma mistura homogênea e, então, adicione o restante do leite aos poucos, mexendo sem parar. Quando estiver bem quente, retire do fogo, coloque em uma xícara e veja se você consegue encontrar marshmallows, canela ou quem sabe chantilly para incrementar. ",
+			"link_imagem":"http://localhost/api/img/g-2.jpg"
+		},
+
+		{
+			"receita": "Macaroon cookies",
+			"ingredientes": "500 g de coco ralado, 1 lata de leite condensado",
+			"ingredientesBase": {
+				"0": "2",
+				"1": "Coco ralado",
+				"2": "Leite condesado"
+			},
+			"modoPreparo": "Basta misturar o coco ralado com o leite condensado e colocar bolinhas com a ajuda de uma colher em uma forma forrada com papel manteiga. Depois, leve para assar em um forno pré-aquecido a 180 graus por 10 ou 12 minutos ou até que as bolinhas fiquem levemente douradas.",
+			"link_imagem":"https://wineandplum.files.wordpress.com/2013/04/img_1121.jpg"
+		},
+
+		{
+			"receita": "Muffins",
+			"ingredientes": "4 ovos inteiros, 1 xícara de brócolis, meia xícara de queijo ralado",
+			"ingredientesBase": {
+				"0": "3",
+				"1": "Ovo",
+				"2": "Brocolis",
+				"3": "Queijo"
+			},
+			"modoPreparo": "Pré-aqueça o forno a 190°. Em uma vasilha misture 4 ovos inteiros, 1 xícara de brócolis (só as flores picadas) e 1/2 xícara de queijo cheddar ralado ou outro queijo de sua preferência. Leve ao forno de 12 a 15 minutos, até que o ovo esteja assado.",
+			"link_imagem":"http://localhost/api/img/p-1.jpg"
+		}
+	]
+}
